@@ -1,0 +1,22 @@
+name: Feature idea
+description: Suggest something that would make vioKoni better.
+labels: [idea]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Issues are public.** Please don't name providers or channels, and don't post links to content.
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like?
+      description: Describe the idea and the situation where it would help you.
+    validations:
+      required: true
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Check
+      options:
+        - label: My idea contains no provider or channel names and no links to content.
+          required: true

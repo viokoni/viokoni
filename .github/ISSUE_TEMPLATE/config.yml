@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Private question (e-mail)
+    url: mailto:support@viokoni.com
+    about: For anything you don't want to post publicly.
+  - name: Where do I get channels or films?
+    url: https://viokoni.com/support/#where-do-i-get-channels
+    about: vioKoni provides no content and recommends no providers. Such issues are closed.

@@ -1,0 +1,60 @@
+name: Bug report
+description: Something in vioKoni doesn't work as expected.
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Issues are public.** Never post passwords, usernames, server addresses, playlist links, API keys, or names of providers or channels. Issues containing them are deleted. Describe a channel or title by its technical details instead (for example "an HEVC live channel" or "an MKV film with two audio tracks").
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you do, what did you expect, and what happened instead?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open TV
+        2. Select a channel with …
+        3. …
+  - type: input
+    id: app-version
+    attributes:
+      label: App version
+      description: Settings → About
+    validations:
+      required: true
+  - type: input
+    id: tvos
+    attributes:
+      label: tvOS version and Apple TV model
+      placeholder: tvOS 26.1, Apple TV 4K (3rd generation)
+  - type: dropdown
+    id: source
+    attributes:
+      label: Source type
+      options:
+        - Xtream Codes
+        - M3U playlist
+        - Both / several
+  - type: dropdown
+    id: player
+    attributes:
+      label: Player (if playback is affected)
+      options:
+        - Not about playback
+        - VLC
+        - AVPlayer
+        - AetherEngine
+        - Don't know
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Check
+      options:
+        - label: My report contains no credentials, server addresses, playlist links, keys, or provider or channel names.
+          required: true
