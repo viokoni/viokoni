@@ -138,6 +138,9 @@ main.home { padding: 0 0 40px; }
   box-shadow: 0 10px 34px rgba(255, 107, 0, 0.32);
 }
 .badge.disabled { pointer-events: none; }
+/* Apple's badge, unaltered; Apple asks for clear space of a quarter of its height. */
+.store-badge { display: inline-flex; margin-right: 10px; }
+.store-badge img { display: block; height: 60px; width: auto; }
 .actions { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
 .ghost, .ghost:visited {
   display: inline-flex; padding: 12px 22px; border-radius: 999px;
