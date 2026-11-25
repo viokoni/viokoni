@@ -1,0 +1,27 @@
+name: New language
+description: Ask for a language the app doesn't have yet, or offer to translate it.
+title: "New language: "
+labels: [new language]
+body:
+  - type: input
+    id: language
+    attributes:
+      label: Language
+      placeholder: "e.g. French (fr), Brazilian Portuguese (pt-BR)"
+    validations:
+      required: true
+  - type: dropdown
+    id: help
+    attributes:
+      label: Can you translate it?
+      description: The texts to translate are in translations/template.json.
+      options:
+        - Yes, I'll open a pull request
+        - Partly
+        - No, I'm only asking
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes (optional)

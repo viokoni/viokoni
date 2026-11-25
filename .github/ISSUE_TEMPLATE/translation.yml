@@ -1,0 +1,48 @@
+name: Better translation
+description: A text in the app is translated badly, wrongly or not at all.
+labels: [translation]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping! One issue per text (or per screen) is easiest to handle.
+        All texts and translations are in [translations/](https://github.com/viokoni/viokoni/tree/main/translations).
+  - type: dropdown
+    id: language
+    attributes:
+      label: Language
+      options:
+        - German (de)
+        - Other (name it below)
+    validations:
+      required: true
+  - type: input
+    id: current
+    attributes:
+      label: What the app shows now
+      placeholder: "e.g. Weiterschauen"
+    validations:
+      required: true
+  - type: input
+    id: suggestion
+    attributes:
+      label: What it should say
+    validations:
+      required: true
+  - type: input
+    id: english
+    attributes:
+      label: English text (if you know it)
+      description: Search for the current text in translations/languages/ — the left-hand side is the English text.
+  - type: input
+    id: where
+    attributes:
+      label: Where in the app
+      placeholder: "e.g. Apple TV, Settings → Playback, second row"
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why (optional)
+      description: Wrong meaning, too long for the button, unusual word, typo … A screenshot helps a lot (crop out channel names and posters of your provider).

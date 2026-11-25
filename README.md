@@ -14,4 +14,6 @@ Issues are public: never post passwords, server addresses, playlist links, API
 keys, or names of providers or channels. For private questions write to
 support@viokoni.com.
 
+**Better translation or a new language?** See [translations/](translations).
+
 The app's source code is not in this repository.
