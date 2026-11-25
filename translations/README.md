@@ -2,7 +2,7 @@
 
 The app's English texts and their translations. Anyone can suggest a better wording or a new language.
 
-**Just reading?** [`languages/de.md`](languages/de.md) shows all German texts as a table, grouped by screen. The [glossary](glossary.md) lists the fixed terms.
+**Just reading?** [`languages/de.md`](languages/de.md) (German) and [`languages/fr.md`](languages/fr.md) (French) show all texts as a table, grouped by part of the app. The [glossary](glossary.md) lists the fixed terms.
 
 ## Found a bad translation?
 
@@ -10,7 +10,7 @@ The app's English texts and their translations. Anyone can suggest a better word
 
 ## Want to fix it yourself?
 
-1. Open the file of your language in [`languages/`](languages), e.g. [`languages/de.json`](languages/de.json).
+1. Open the file of your language in [`languages/`](languages), e.g. [`languages/de.json`](languages/de.json) or [`languages/fr.json`](languages/fr.json).
 2. Each line is `"English text" : "translation"`. Change only the right-hand side. An empty `""` means "not translated yet" (the app then shows English).
 3. Open a pull request.
 
@@ -31,6 +31,10 @@ Every suggestion is checked in context before it goes into the app; you'll get a
 ## License
 
 By contributing a translation you agree that it is released under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) (public domain), so it can be used in the app without restrictions.
+
+## Français
+
+Une traduction maladroite ? Signalez-la par une [issue](https://github.com/viokoni/viokoni/issues/new?template=translation.yml), idéalement avec une capture d'écran et l'endroit dans l'app. Tous les textes sont lisibles dans [`languages/fr.md`](languages/fr.md), les termes fixes dans le [glossaire](glossary.md). Pour corriger vous-même : [`languages/fr.json`](languages/fr.json) par pull request — ne modifiez que la partie droite et gardez les marqueurs comme `%@` et `%lld`.
 
 ## Deutsch
 

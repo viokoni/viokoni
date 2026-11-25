@@ -64,3 +64,56 @@ Address: informal **du** (as Apple does), friendly and plain. No "bitte" in ever
 | Edit Info | Info bearbeiten | |
 | More Like This | Mehr davon | Ähnliche Titel |
 | Coming soon | Demnächst | Bald verfügbar |
+
+## French (fr)
+
+Address: **vous** (as Apple does in French), sentence case for titles and buttons. French spacing: a non-breaking space before `:` `?` `!` `;` and inside « guillemets ». Ellipsis `…` without a space before it.
+
+| English | Français | Not |
+|---|---|---|
+| Channel | Chaîne | Canal |
+| All Channels | Toutes les chaînes | |
+| Episode | Épisode | |
+| Season | Saison | |
+| Series | Série(s) | |
+| Film / Movie | Film | |
+| Watchlist | Liste de suivi | Watchlist |
+| Continue Watching | Reprendre | Continuer à regarder |
+| Recently Watched | Vus récemment | |
+| Up Next | À suivre (TV) / Épisode suivant (séries) | |
+| Library | Médiathèque | Bibliothèque |
+| Source | Source (playlist/compte) | Code source |
+| Playlist | Playlist | Liste de lecture |
+| Provider | Fournisseur | Provider |
+| TV Guide | Guide TV | EPG (except in technical texts) |
+| Live TV | TV en direct | Live TV |
+| Catch-up | Replay | Rattrapage |
+| Start Over | Depuis le début | Redémarrer |
+| Back to Live | Retour au direct | |
+| Play | Lire (button) | Jouer |
+| Resume | Reprendre | |
+| Watched / Unwatched | Vu / Non vu | |
+| Favorites | Favoris | |
+| Settings | Réglages | Paramètres |
+| Playback | Lecture | |
+| Player | Lecteur | Player |
+| Buffer | Mémoire tampon | Buffer |
+| Stream | Flux | Stream |
+| Subtitles | Sous-titres | |
+| Audio (track) | Audio / Piste audio | Son |
+| Picture Format | Format d'image | |
+| Zapping / switch channels | Zapper / changer de chaîne | |
+| Match (with TMDB) | Associer / Association | Matcher, Correspondance |
+| Sync (Simkl, iCloud) | Synchroniser / Synchronisation | |
+| Hidden / Hide | Masqué / Masquer | Caché |
+| Version (of a title) | Version | |
+| Key (API key) | Clé / Clé API | |
+| Backup | Sauvegarde | Backup |
+| Credentials / Sign-in | Identifiants / Connexion | |
+| Save | Enregistrer | Sauvegarder |
+| Select (remote button) | Sélectionner | OK |
+| Long press / Hold Select | appui long / maintenir Sélectionner | |
+| Home | Accueil | Home |
+| Edit Info | Modifier les infos | |
+| More Like This | Titres similaires | |
+| Coming soon | Bientôt disponible | |

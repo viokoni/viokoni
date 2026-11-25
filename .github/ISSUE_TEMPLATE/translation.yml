@@ -13,6 +13,7 @@ body:
       label: Language
       options:
         - German (de)
+        - French (fr)
         - Other (name it below)
     validations:
       required: true

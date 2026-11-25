@@ -896,7 +896,7 @@ To suggest a change, [open an issue](https://github.com/viokoni/viokoni/issues/n
 
 | English | de |
 |---|---|
-| ‹1› (‹2›) · built ‹3› | ‹1› (‹2›) · erstellt ‹3› |
+| ‹1› (‹2›) · built ‹3› | ‹1› (‹2›) · ‹3› |
 | ‹1› marked by you | ‹1› von dir markiert |
 | ‹1› open | ‹1› offen |
 | ‹1› titles come from more than one source | ‹1› Titel stammen aus mehr als einer Quelle |
