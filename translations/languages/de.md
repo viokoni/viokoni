@@ -1,6 +1,6 @@
 # Translations: de
 
-All texts of the app with their translation, by part of the app — 1006 of 1006 translated.
+All texts of the app with their translation, by part of the app — 998 of 998 translated.
 
 To suggest a change, [open an issue](https://github.com/viokoni/viokoni/issues/new?template=translation.yml) or edit [`de.json`](de.json) — this table is generated from it. Fixed terms: [glossary](../glossary.md).
 
@@ -8,17 +8,17 @@ To suggest a change, [open an issue](https://github.com/viokoni/viokoni/issues/n
 
 ## Contents
 
-- [Welcome and setup](#welcome-and-setup) (59)
+- [Welcome and setup](#welcome-and-setup) (57)
 - [Home](#home) (14)
 - [Live TV and TV guide](#live-tv-and-tv-guide) (30)
 - [Player](#player) (44)
 - [Catch-up](#catch-up) (38)
-- [Movies and series](#movies-and-series) (148)
-- [Search](#search) (15)
+- [Movies and series](#movies-and-series) (147)
+- [Search](#search) (14)
 - [Matching with TMDB](#matching-with-tmdb) (104)
-- [Settings: sources](#settings-sources) (90)
+- [Settings: sources](#settings-sources) (89)
 - [Settings: playback and subtitles](#settings-playback-and-subtitles) (26)
-- [Settings: categories and PIN](#settings-categories-and-pin) (60)
+- [Settings: categories and PIN](#settings-categories-and-pin) (57)
 - [Settings: TMDB, Simkl and MDBList](#settings-tmdb-simkl-and-mdblist) (88)
 - [Settings: iCloud and backup](#settings-icloud-and-backup) (25)
 - [Manage in Browser](#manage-in-browser) (65)
@@ -46,7 +46,6 @@ To suggest a change, [open an issue](https://github.com/viokoni/viokoni/issues/n
 | I Understand — Continue | Verstanden – weiter |
 | Loading channels, movies, and series… | Sender, Filme und Serien werden geladen … |
 | Loading channels… | Sender werden geladen … |
-| Looking in iCloud | Suche in iCloud |
 | Looking in iCloud… | Suche in iCloud … |
 | M3U Playlist | M3U-Playlist |
 | Name (optional) | Name (optional) |
@@ -61,7 +60,6 @@ To suggest a change, [open an issue](https://github.com/viokoni/viokoni/issues/n
 | Sign in with your own subscription. | Melde dich mit deinem eigenen Abo an. |
 | Sign-ins, API keys and the PIN on all your devices, end-to-end encrypted by Apple. | Anmeldungen, API-Schlüssel und die PIN auf all deinen Geräten, von Apple durchgehend verschlüsselt. |
 | Skip | Überspringen |
-| Starting… | Wird gestartet … |
 | Switching On… | Wird eingeschaltet … |
 | The key could not be stored on this Apple TV. | Der Schlüssel konnte auf diesem Apple TV nicht gespeichert werden. |
 | The playlist URL is not valid. | Die Playlist-URL ist ungültig. |
@@ -330,7 +328,6 @@ To suggest a change, [open an issue](https://github.com/viokoni/viokoni/issues/n
 | Planned | Geplant |
 | Play | Abspielen |
 | Play from ‹1› | Ab ‹1› abspielen |
-| Play from Beginning | Von Anfang an abspielen |
 | Play from the Start | Von Anfang an abspielen |
 | Play S‹1› E‹2› | S‹1› F‹2› abspielen |
 | Provided as .‹1› — AVPlayer cannot decode this format. Choose VLC in Settings → Playback. | Als .‹1› geliefert – AVPlayer kann dieses Format nicht dekodieren. Wähle VLC unter Einstellungen → Wiedergabe. |
@@ -395,7 +392,6 @@ To suggest a change, [open an issue](https://github.com/viokoni/viokoni/issues/n
 | ‹1› more — type more of the title to narrow the results. | ‹1› weitere – gib mehr vom Titel ein, um die Ergebnisse einzugrenzen. |
 | 1 title | 1 Titel |
 | From all your sources. | Aus all deinen Quellen. |
-| Loading Catalog… | Katalog wird geladen … |
 | Loading catalog… | Katalog wird geladen … |
 | Movies and Series | Filme und Serien |
 | Movies, Series and Channels | Filme, Serien und Sender |
@@ -567,7 +563,6 @@ To suggest a change, [open an issue](https://github.com/viokoni/viokoni/issues/n
 | Remove Source… | Quelle entfernen … |
 | Remove TV Guide URL | TV-Guide-URL entfernen |
 | Remove with Favorites, Watchlist and History | Mit Favoriten, Merkliste und Verlauf entfernen |
-| Remove with Favorites, Watchlist, and History | Mit Favoriten, Merkliste und Verlauf entfernen |
 | Remove, Keep Favorites and Watchlist | Entfernen, Favoriten und Merkliste behalten |
 | Removing deletes the stored credentials from this Apple TV. | Beim Entfernen werden die gespeicherten Zugangsdaten von diesem Apple TV gelöscht. |
 | Rename Source | Quelle umbenennen |
@@ -650,7 +645,6 @@ To suggest a change, [open an issue](https://github.com/viokoni/viokoni/issues/n
 | ‹1› of ‹2› digits entered | ‹1› von ‹2› Ziffern eingegeben |
 | 15 Minutes | 15 Minuten |
 | A PIN locks the categories you choose and protects this page, Sources and Reset App. Adult categories (XXX, Adult, 18+, …) are hidden automatically. | Eine PIN sperrt die Kategorien deiner Wahl und schützt diese Seite, Quellen und „App zurücksetzen“. Kategorien für Erwachsene (XXX, Adult, 18+, …) werden automatisch ausgeblendet. |
-| A PIN locks the categories you choose and protects this page, the sources and Reset App. Adult categories (XXX, Adult, 18+, …) are hidden automatically. | Eine PIN sperrt die Kategorien deiner Wahl und schützt diese Seite, die Quellen und „App zurücksetzen“. Kategorien für Erwachsene (XXX, Adult, 18+, …) werden automatisch ausgeblendet. |
 | Back to Provider Order | Zurück zur Reihenfolge des Anbieters |
 | Browsable and searchable, but not on Home, in trends, “More Like This” or person pages. | Durchsuch- und auffindbar, aber nicht in Home, in Trends, „Mehr davon“ oder auf Personenseiten. |
 | Change PIN… | PIN ändern … |
@@ -689,12 +683,10 @@ To suggest a change, [open an issue](https://github.com/viokoni/viokoni/issues/n
 | The name points to adult content, so it is hidden. | Der Name deutet auf Inhalte für Erwachsene hin, daher ist sie ausgeblendet. |
 | The name points to adult content, so the PIN locks it. | Der Name deutet auf Inhalte für Erwachsene hin, daher sperrt die PIN sie. |
 | The PIN also protects this page, Sources and Reset App. Adult categories (XXX, Adult, 18+, …) are locked with it automatically. | Die PIN schützt auch diese Seite, Quellen und „App zurücksetzen“. Kategorien für Erwachsene (XXX, Adult, 18+, …) werden damit automatisch gesperrt. |
-| The PIN also protects this page, the sources and Reset App. Adult categories (XXX, Adult, 18+, …) are locked with it automatically. | Die PIN schützt auch diese Seite, die Quellen und „App zurücksetzen“. Kategorien für Erwachsene (XXX, Adult, 18+, …) werden damit automatisch gesperrt. |
 | The PINs didn't match. Choose the PIN again. | Die PINs stimmen nicht überein. Lege die PIN erneut fest. |
 | The two entries differ. Start again. | Die beiden Eingaben unterscheiden sich. Fang noch einmal an. |
 | This category is protected by the PIN. | Diese Kategorie ist durch die PIN geschützt. |
 | This page is protected by the parental PIN. | Diese Seite ist durch die Jugendschutz-PIN geschützt. |
-| This page is protected by the PIN. | Diese Seite ist durch die PIN geschützt. |
 | This source has no categories here. | Diese Quelle hat hier keine Kategorien. |
 | Too many wrong entries. Try again at ‹1›. | Zu viele Fehleingaben. Versuche es um ‹1› erneut. |
 | Too many wrong entries. Try again in ‹1›. | Zu viele Fehleingaben. Versuche es in ‹1› erneut. |
@@ -857,10 +849,10 @@ To suggest a change, [open an issue](https://github.com/viokoni/viokoni/issues/n
 | Credentials changed. | Zugangsdaten geändert. |
 | Development: Act as Not Purchased | Entwicklung: als nicht gekauft behandeln |
 | Enter the PIN as well. | Gib auch die PIN ein. |
-| Favourite removed. | Favorit entfernt. |
-| Favourites added. | Favoriten hinzugefügt. |
-| Favourites removed. | Favoriten entfernt. |
-| Favourites sorted. | Favoriten sortiert. |
+| Favorite removed. | Favorit entfernt. |
+| Favorites added. | Favoriten hinzugefügt. |
+| Favorites removed. | Favoriten entfernt. |
+| Favorites sorted. | Favoriten sortiert. |
 | Forget Paired Browsers | Gekoppelte Browser vergessen |
 | Full management | Volle Verwaltung |
 | Key removed. | Schlüssel entfernt. |
@@ -879,7 +871,7 @@ To suggest a change, [open an issue](https://github.com/viokoni/viokoni/issues/n
 | Sources, categories, channels, favorites, TMDB matches, keys and the backup, on a computer or phone in the same network. The server runs only while its page is open. | Quellen, Kategorien, Sender, Favoriten, TMDB-Zuordnungen, Schlüssel und die Sicherung, auf einem Computer oder Handy im selben Netzwerk. Der Server läuft nur, solange seine Seite offen ist. |
 | Sources, keys and the backup can be managed in the browser. | Quellen, Schlüssel und die Sicherung lassen sich im Browser verwalten. |
 | Start Manage in Browser | „Im Browser verwalten“ starten |
-| Starting … | Wird gestartet … |
+| Starting… | Wird gestartet … |
 | Switch off: ‹1› | Ausschalten: ‹1› |
 | Switch on: ‹1› | Einschalten: ‹1› |
 | The backup could not be created. | Die Sicherung konnte nicht erstellt werden. |
