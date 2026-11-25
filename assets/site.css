@@ -198,12 +198,20 @@ main.home { padding: 0 0 40px; }
 .feature p { margin: 0; color: var(--muted); font-size: 16px; line-height: 1.5; }
 .feature.wide { grid-column: 1 / -1; }
 
-.soon { display: flex; align-items: center; gap: 10px; margin: 22px 0 0; color: var(--nav); font-size: 15px; }
+.soon { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; margin: 22px 0 0; color: var(--nav); font-size: 15px; }
+.soon > * { white-space: nowrap; }
 .soon-tag {
   padding: 3px 10px; border-radius: 999px; font-size: 12px; font-weight: 650;
   letter-spacing: .04em; text-transform: uppercase;
   color: var(--link); border: 1px solid color-mix(in srgb, var(--orange) 45%, transparent);
 }
+.soon-join, .soon-join:visited {
+  margin-left: 4px; padding: 6px 14px; border-radius: 999px;
+  color: var(--text); text-decoration: none; font-weight: 600; font-size: 14px;
+  background: var(--surface); border: 1px solid var(--stroke);
+  transition: background-color .15s;
+}
+.soon-join:hover { color: #fff; background: var(--surface-strong); }
 
 /* ---------- Cards, notices, tables ---------- */
 
