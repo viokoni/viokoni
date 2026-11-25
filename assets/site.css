@@ -196,6 +196,14 @@ main.home { padding: 0 0 40px; }
 }
 .feature h3 { margin: 0 0 6px; font-size: 19px; letter-spacing: -0.01em; }
 .feature p { margin: 0; color: var(--muted); font-size: 16px; line-height: 1.5; }
+.feature.wide { grid-column: 1 / -1; }
+
+.soon { display: flex; align-items: center; gap: 10px; margin: 22px 0 0; color: var(--nav); font-size: 15px; }
+.soon-tag {
+  padding: 3px 10px; border-radius: 999px; font-size: 12px; font-weight: 650;
+  letter-spacing: .04em; text-transform: uppercase;
+  color: var(--link); border: 1px solid color-mix(in srgb, var(--orange) 45%, transparent);
+}
 
 /* ---------- Cards, notices, tables ---------- */
 
@@ -235,6 +243,7 @@ footer.site a:hover { color: var(--text); }
   .hero-art { order: -1; width: min(340px, 80vw); margin: 0 auto; }
   .hero .lead { margin-left: auto; margin-right: auto; }
   .actions { justify-content: center; }
+  .soon { justify-content: center; }
 }
 @media (max-width: 600px) {
   .wrap { padding: 0 16px; }
