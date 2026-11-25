@@ -2,6 +2,8 @@
 
 The app's English texts and their translations. Anyone can suggest a better wording or a new language.
 
+**Just reading?** [`languages/de.md`](languages/de.md) shows all German texts as a table, grouped by screen. The [glossary](glossary.md) lists the fixed terms.
+
 ## Found a bad translation?
 
 [Open an issue](https://github.com/viokoni/viokoni/issues/new?template=translation.yml): which text, what it says now, what it should say, and where in the app you saw it. A screenshot helps a lot — most bad translations come from missing context.
@@ -18,10 +20,9 @@ Texts like `%@`, `%lld` or `%1$@` are filled in by the app (a name, a number, a 
 
 ### Style
 
-- German uses the informal *du*, as Apple does.
-- Use the words of Apple's own TV app in your language where they exist (e.g. *Watchlist*, *Up Next*, *Settings*).
-- Keep it short: on Apple TV a button has little room.
-- Don't translate names: vioKoni, TMDB, Simkl, MDBList, VLC, AetherEngine, AVPlayer, Xtream Codes, M3U.
+See the [glossary](glossary.md): fixed terms, names that stay as they are, and the tone (German uses the informal *du*). Keep it short — on Apple TV a button has little room. The `.md` table next to each `.json` shows where a text appears in the app.
+
+Every suggestion is checked in context before it goes into the app; you'll get an answer on your issue or pull request.
 
 ## A new language
 
@@ -33,4 +34,4 @@ By contributing a translation you agree that it is released under [CC0 1.0](http
 
 ## Deutsch
 
-Eine schlechte Übersetzung meldest du über ein [Issue](https://github.com/viokoni/viokoni/issues/new?template=translation.yml), am besten mit Screenshot und der Stelle in der App. Selbst korrigieren kannst du sie in [`languages/de.json`](languages/de.json) per Pull Request: nur die rechte Seite ändern, Platzhalter wie `%@` und `%lld` behalten.
+Eine schlechte Übersetzung meldest du über ein [Issue](https://github.com/viokoni/viokoni/issues/new?template=translation.yml), am besten mit Screenshot und der Stelle in der App. Zum Lesen gibt es alle Texte als Tabelle in [`languages/de.md`](languages/de.md), die festen Begriffe im [Glossar](glossary.md). Selbst korrigieren kannst du sie in [`languages/de.json`](languages/de.json) per Pull Request: nur die rechte Seite ändern, Platzhalter wie `%@` und `%lld` behalten.
