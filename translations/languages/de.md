@@ -1,6 +1,6 @@
 # Translations: de
 
-All texts of the app with their translation, by part of the app — 998 of 998 translated.
+All texts of the app with their translation, by part of the app — 999 of 999 translated.
 
 To suggest a change, [open an issue](https://github.com/viokoni/viokoni/issues/new?template=translation.yml) or edit [`de.json`](de.json) — this table is generated from it. Fixed terms: [glossary](../glossary.md).
 
@@ -22,7 +22,7 @@ To suggest a change, [open an issue](https://github.com/viokoni/viokoni/issues/n
 - [Settings: TMDB, Simkl and MDBList](#settings-tmdb-simkl-and-mdblist) (88)
 - [Settings: iCloud and backup](#settings-icloud-and-backup) (25)
 - [Manage in Browser](#manage-in-browser) (65)
-- [Settings: general and about](#settings-general-and-about) (196)
+- [Settings: general and about](#settings-general-and-about) (197)
 
 ## Welcome and setup
 
@@ -896,6 +896,7 @@ To suggest a change, [open an issue](https://github.com/viokoni/viokoni/issues/n
 
 | English | de |
 |---|---|
+| ‹1› (‹2›) · built ‹3› | ‹1› (‹2›) · erstellt ‹3› |
 | ‹1› marked by you | ‹1› von dir markiert |
 | ‹1› open | ‹1› offen |
 | ‹1› titles come from more than one source | ‹1› Titel stammen aus mehr als einer Quelle |

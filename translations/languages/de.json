@@ -1,5 +1,6 @@
 {
   " of %@": " von %@",
+  "%@ (%@) · built %@": "%1$@ (%2$@) · erstellt %3$@",
   "%@ fell from %@ to %@ on %@. The provider may be rebuilding this section.": "%1$@ fiel am %4$@ von %2$@ auf %3$@. Der Anbieter baut diesen Bereich vielleicht gerade neu auf.",
   "%@ in %lld s": "%1$@ in %2$lld s",
   "%@ marked by you": "%@ von dir markiert",
