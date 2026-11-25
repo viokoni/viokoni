@@ -117,3 +117,56 @@ Address: **vous** (as Apple does in French), sentence case for titles and button
 | Edit Info | Modifier les infos | |
 | More Like This | Titres similaires | |
 | Coming soon | Bientôt disponible | |
+
+## Spanish (es)
+
+Spanish as used in Spain (`es`); a Latin American variant (`es-419`: *en vivo*, *video*) can follow. Address: **tú** (as Apple does in Spanish), sentence case for titles and buttons. Opening ¿ and ¡, quotes as “…”.
+
+| English | Español | Not |
+|---|---|---|
+| Channel | Canal | Cadena |
+| All Channels | Todos los canales | |
+| Episode | Episodio | Capítulo |
+| Season | Temporada | |
+| Series | Serie(s) | |
+| Film / Movie | Película | Film |
+| Watchlist | Mi lista | Watchlist |
+| Continue Watching | Seguir viendo | |
+| Recently Watched | Vistos recientemente | |
+| Up Next | A continuación (TV) / Siguiente episodio (series) | |
+| Library | Biblioteca | Librería |
+| Source | Fuente (lista/cuenta) | Código fuente |
+| Playlist | Lista (M3U) | Playlist |
+| Provider | Proveedor | |
+| TV Guide | Guía de TV | EPG (except in technical texts) |
+| Live TV | TV en directo | TV en vivo (es-419) |
+| Catch-up | A la carta | Catch-up |
+| Start Over | Desde el principio | Reiniciar |
+| Back to Live | Volver al directo | |
+| Play | Reproducir (button) | Jugar |
+| Resume | Reanudar | Continuar |
+| Watched / Unwatched | Visto / No visto | |
+| Favorites | Favoritos | |
+| Settings | Ajustes | Configuración |
+| Playback | Reproducción | |
+| Player | Reproductor | Player |
+| Buffer | Búfer | Buffer |
+| Stream | Emisión / stream (technical) | Corriente |
+| Subtitles | Subtítulos | |
+| Audio (track) | Audio / Pista de audio | Sonido |
+| Picture Format | Formato de imagen | |
+| Zapping / switch channels | Hacer zapping / cambiar de canal | |
+| Match (with TMDB) | Asociar / Asociación | Emparejar, Match |
+| Sync (Simkl, iCloud) | Sincronizar / Sincronización | |
+| Hidden / Hide | Oculto / Ocultar | Escondido |
+| Version (of a title) | Versión | |
+| Key (API key) | Clave / Clave de API | Llave |
+| Backup | Copia de seguridad | Backup |
+| Credentials / Sign-in | Credenciales / Inicio de sesión | |
+| Save | Guardar | Salvar |
+| Select (remote button) | Seleccionar | OK |
+| Long press / Hold Select | mantener pulsado / mantén pulsado Seleccionar | |
+| Home | Inicio | Home |
+| Edit Info | Editar información | |
+| More Like This | Similares | |
+| Coming soon | Próximamente | |

@@ -2,7 +2,7 @@
 
 The app's English texts and their translations. Anyone can suggest a better wording or a new language.
 
-**Just reading?** [`languages/de.md`](languages/de.md) (German) and [`languages/fr.md`](languages/fr.md) (French) show all texts as a table, grouped by part of the app. The [glossary](glossary.md) lists the fixed terms.
+**Just reading?** [`languages/de.md`](languages/de.md) (German), [`languages/fr.md`](languages/fr.md) (French) and [`languages/es.md`](languages/es.md) (Spanish) show all texts as a table, grouped by part of the app. The [glossary](glossary.md) lists the fixed terms.
 
 ## Found a bad translation?
 
@@ -10,7 +10,7 @@ The app's English texts and their translations. Anyone can suggest a better word
 
 ## Want to fix it yourself?
 
-1. Open the file of your language in [`languages/`](languages), e.g. [`languages/de.json`](languages/de.json) or [`languages/fr.json`](languages/fr.json).
+1. Open the file of your language in [`languages/`](languages), e.g. [`languages/de.json`](languages/de.json), [`languages/fr.json`](languages/fr.json) or [`languages/es.json`](languages/es.json).
 2. Each line is `"English text" : "translation"`. Change only the right-hand side. An empty `""` means "not translated yet" (the app then shows English).
 3. Open a pull request.
 
@@ -35,6 +35,10 @@ By contributing a translation you agree that it is released under [CC0 1.0](http
 ## Français
 
 Une traduction maladroite ? Signalez-la par une [issue](https://github.com/viokoni/viokoni/issues/new?template=translation.yml), idéalement avec une capture d'écran et l'endroit dans l'app. Tous les textes sont lisibles dans [`languages/fr.md`](languages/fr.md), les termes fixes dans le [glossaire](glossary.md). Pour corriger vous-même : [`languages/fr.json`](languages/fr.json) par pull request — ne modifiez que la partie droite et gardez les marqueurs comme `%@` et `%lld`.
+
+## Español
+
+¿Una traducción poco acertada? Avísanos con una [issue](https://github.com/viokoni/viokoni/issues/new?template=translation.yml), a ser posible con una captura de pantalla y el lugar de la app. Todos los textos se pueden leer en [`languages/es.md`](languages/es.md) y los términos fijos en el [glosario](glossary.md). Para corregirlo tú: [`languages/es.json`](languages/es.json) mediante pull request; cambia solo la parte derecha y conserva marcadores como `%@` y `%lld`.
 
 ## Deutsch
 
