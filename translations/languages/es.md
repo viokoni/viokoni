@@ -8,21 +8,21 @@ To suggest a change, [open an issue](https://github.com/viokoni/viokoni/issues/n
 
 ## Contents
 
-- [Welcome and setup](#welcome-and-setup) (57)
+- [Welcome and setup](#welcome-and-setup) (56)
 - [Home](#home) (14)
 - [Live TV and TV guide](#live-tv-and-tv-guide) (30)
 - [Player](#player) (44)
 - [Catch-up](#catch-up) (38)
-- [Movies and series](#movies-and-series) (147)
+- [Movies and series](#movies-and-series) (148)
 - [Search](#search) (14)
 - [Matching with TMDB](#matching-with-tmdb) (104)
 - [Settings: sources](#settings-sources) (89)
 - [Settings: playback and subtitles](#settings-playback-and-subtitles) (26)
 - [Settings: categories and PIN](#settings-categories-and-pin) (57)
-- [Settings: TMDB, Simkl and MDBList](#settings-tmdb-simkl-and-mdblist) (88)
-- [Settings: iCloud and backup](#settings-icloud-and-backup) (25)
+- [Settings: TMDB, Simkl and MDBList](#settings-tmdb-simkl-and-mdblist) (89)
+- [Settings: iCloud and backup](#settings-icloud-and-backup) (26)
 - [Manage in Browser](#manage-in-browser) (65)
-- [Settings: general and about](#settings-general-and-about) (197)
+- [Settings: general and about](#settings-general-and-about) (195)
 
 ## Welcome and setup
 
@@ -50,7 +50,6 @@ To suggest a change, [open an issue](https://github.com/viokoni/viokoni/issues/n
 | M3U Playlist | Lista M3U |
 | Name (optional) | Nombre (opcional) |
 | Optional: artwork and details from TMDB. | Opcional: imágenes y detalles de TMDB. |
-| Passwords via iCloud Keychain | Contraseñas con el llavero de iCloud |
 | Playlist URL | URL de la lista |
 | Playlist URL (M3U) | URL de la lista (M3U) |
 | Posters, Descriptions and Cast | Pósteres, descripciones y reparto |
@@ -380,6 +379,7 @@ To suggest a change, [open an issue](https://github.com/viokoni/viokoni/issues/n
 | Watched | Visto |
 | Watched ‹1› | Visto ‹1› |
 | Watchlist | Mi lista |
+| Watchlist Only | Solo Mi lista |
 | With ‹1› | Con ‹1› |
 | Your Progress | Tu progreso |
 | Your provider sends no further details for this title. | Tu proveedor no envía más detalles de este título. |
@@ -725,6 +725,7 @@ To suggest a change, [open an issue](https://github.com/viokoni/viokoni/issues/n
 | Both apply to pages opened from now on. | Ambos se aplican a las páginas que abras a partir de ahora. |
 | Catalog Matching | Asociación del catálogo |
 | Connect Simkl | Conectar Simkl |
+| Detect New Episodes For | Detectar episodios nuevos de |
 | Disconnect | Desconectar |
 | Disconnect Simkl? | ¿Desconectar Simkl? |
 | Done | OK |
@@ -809,6 +810,7 @@ To suggest a change, [open an issue](https://github.com/viokoni/viokoni/issues/n
 | Not Reachable | No accesible |
 | Not Signed In | Sin sesión iniciada |
 | Not Yet | Todavía no |
+| Passwords via iCloud Keychain | Contraseñas con el llavero de iCloud |
 | Problem | Problema |
 | Restricted | Restringido |
 | Sign in to iCloud in the device's settings to keep your library on all your devices. | Inicia sesión en iCloud en los ajustes del dispositivo para tener tu biblioteca en todos tus dispositivos. |
@@ -948,7 +950,6 @@ To suggest a change, [open an issue](https://github.com/viokoni/viokoni/issues/n
 | Deinterlacing | Desentrelazado |
 | Delete the watch history for every source? | ¿Eliminar el historial de reproducción de todas las fuentes? |
 | Delete Watch History | Eliminar historial de reproducción |
-| Detect New Episodes For | Detectar episodios nuevos de |
 | Device Language | Idioma del dispositivo |
 | Device Language (‹1›) | Idioma del dispositivo (‹1›) |
 | Element Size | Tamaño de los elementos |
@@ -1088,7 +1089,6 @@ To suggest a change, [open an issue](https://github.com/viokoni/viokoni/issues/n
 | vioKoni is built on open source software and uses data from services that deserve the credit. | vioKoni se basa en software de código abierto y usa datos de servicios que merecen el reconocimiento. |
 | vioKoni is built on open source software and uses data from services that deserve the credit. Select an entry to read it in full. | vioKoni se basa en software de código abierto y usa datos de servicios que merecen el reconocimiento. Selecciona una entrada para leerla completa. |
 | vioKoni provides no content of its own. You connect your own, legally obtained subscription. | vioKoni no ofrece contenido propio. Tú conectas tu propia suscripción, obtenida legalmente. |
-| Watchlist Only | Solo Mi lista |
 | What's New | Novedades |
 | With subtitles off, only subtitles the file marks as forced are shown. | Con los subtítulos desactivados, solo se muestran los que el archivo marca como forzados. |
 | Without a match: ‹1› | Sin coincidencia: ‹1› |
