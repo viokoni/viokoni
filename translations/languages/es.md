@@ -1,6 +1,6 @@
 # Translations: es
 
-All texts of the app with their translation, by part of the app — 999 of 999 translated.
+All texts of the app with their translation, by part of the app — 1000 of 1000 translated.
 
 To suggest a change, [open an issue](https://github.com/viokoni/viokoni/issues/new?template=translation.yml) or edit [`es.json`](es.json) — this table is generated from it. Fixed terms: [glossary](../glossary.md).
 
@@ -13,7 +13,7 @@ To suggest a change, [open an issue](https://github.com/viokoni/viokoni/issues/n
 - [Live TV and TV guide](#live-tv-and-tv-guide) (30)
 - [Player](#player) (44)
 - [Catch-up](#catch-up) (38)
-- [Movies and series](#movies-and-series) (148)
+- [Movies and series](#movies-and-series) (149)
 - [Search](#search) (14)
 - [Matching with TMDB](#matching-with-tmdb) (104)
 - [Settings: sources](#settings-sources) (89)
@@ -352,7 +352,7 @@ To suggest a change, [open an issue](https://github.com/viokoni/viokoni/issues/n
 | Season ‹1› | Temporada ‹1› |
 | Season ‹1› · ‹2› | Temporada ‹1› · ‹2› |
 | Selected | Seleccionada |
-| Series | Serie |
+| Series | Series |
 | Series are matched by title and year. | Las series se asocian por título y año. |
 | Series you watch will show up here. | Aquí aparecerán las series que veas. |
 | Show Details | Mostrar detalles |
@@ -368,6 +368,7 @@ To suggest a change, [open an issue](https://github.com/viokoni/viokoni/issues/n
 | This episode cannot be played. | Este episodio no se puede reproducir. |
 | This series has no episodes available. | Esta serie no tiene episodios disponibles. |
 | This title cannot be played. | Este título no se puede reproducir. |
+| title.kind.series | Serie |
 | TMDB ID | ID de TMDB |
 | TMDB rating | Valoración de TMDB |
 | Try Again | Reintentar |
